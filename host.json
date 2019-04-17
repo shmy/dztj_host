@@ -2,7 +2,7 @@
 	"code": 0,
 	"data": [
 		{
-			"base": "https://phub.shmy.tech",
+			"base": "http://139.180.208.30:2019",
 			"path": "/api/client/"
 		}
 	],
